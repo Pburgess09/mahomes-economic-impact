@@ -1,0 +1,10 @@
+metric_id,label,status,with_low,with_high,without_low,without_high,loss_low,loss_high,with_second_low,with_second_high,without_second_low,without_second_high,loss_second_low,loss_second_high
+mahomes_compensation,Patrick Mahomes 2026 compensation,reported,56800000.00,56800000.00,10000000.00,10000000.00,46800000.00,46800000.00,1.8011,1.8011,0.3171,0.3171,1.4840,1.4840
+nfl_media_rights,NFL national media-rights package,reported,10000000000.00,10000000000.00,10000000000.00,10000000000.00,0.00,0.00,317.0979,317.0979,317.0979,317.0979,0.0000,0.0000
+chiefs_schedule_media,Chiefs schedule broadcast-value proxy,modeled,625000000.00,625000000.00,469000000.00,531000000.00,94000000.00,156000000.00,19.8186,19.8186,14.8719,16.8379,2.9807,4.9467
+chiefs_revenue,Kansas City Chiefs total revenue,reported_plus_modeled,644000000.00,644000000.00,550000000.00,580000000.00,64000000.00,94000000.00,20.4211,20.4211,17.4404,18.3917,2.0294,2.9807
+chiefs_local_revenue,Chiefs-controlled local revenue,derived,190800000.00,190800000.00,165000000.00,180000000.00,10800000.00,25800000.00,6.0502,6.0502,5.2321,5.7078,0.3425,0.8181
+licensed_products,Mahomes-related licensed product retail activity,modeled,75000000.00,80000000.00,15000000.00,32000000.00,43000000.00,65000000.00,2.3782,2.5368,0.4756,1.0147,1.3635,2.0611
+hospitality_food_beverage,Local restaurants bars and food service,modeled,25000000.00,60000000.00,17000000.00,45000000.00,8000000.00,15000000.00,0.7927,1.9026,0.5391,1.4269,0.2537,0.4756
+regional_activity,Kansas City regional economic activity,reported_plus_modeled,993200000.00,993200000.00,943200000.00,968200000.00,25000000.00,50000000.00,31.4942,31.4942,29.9087,30.7014,0.7927,1.5855
+missouri_tax,Missouri direct indirect and induced tax revenue,reported_plus_modeled,28800000.00,28800000.00,27400000.00,28100000.00,700000.00,1400000.00,0.9132,0.9132,0.8688,0.8910,0.0222,0.0444
