@@ -17,33 +17,33 @@ These rates are communication devices. Money does not literally arrive uniformly
 
 The core reported figures are:
 
-- Chiefs annual revenue: **$644.0M**.
+- NFL Team annual revenue: **$644.0M**.
 - NFL national distribution proxy: **$453.2M per team**.
 - NFL domestic media package: approximately **$10.0B annually**.
-- Chiefs-related regional economic activity: **$993.2M annually**.
-- Missouri tax revenue associated with the Chiefs/stadium impact study: **$28.8M annually**.
-- Direct impact of a Chiefs home playoff weekend: **$16.0M**.
-- Mahomes 2026 compensation: **$56.8M**.
-- Mahomes group-licensing income: reported at **more than $8.0M**.
+- NFL Team-related regional economic activity: **$993.2M annually**.
+- State tax revenue associated with the NFL Team/stadium impact study: **$28.8M annually**.
+- Direct impact of a NFL Team home playoff weekend: **$16.0M**.
+- NFL Player 2026 compensation: **$56.8M**.
+- NFL Player group-licensing income: reported at **more than $8.0M**.
 
 ## Derived figures
 
-### Chiefs-controlled local revenue proxy
+### NFL Team-controlled local revenue proxy
 
 ```text
-$644.0M total Chiefs revenue - $453.2M national distribution = $190.8M
+$644.0M total NFL Team revenue - $453.2M national distribution = $190.8M
 ```
 
 This proxy includes gate receipts, premium seating, sponsorship, stadium operations, local commercial activity, and other non-national sources. It is not synonymous with local media revenue.
 
-### Chiefs schedule broadcast-value proxy
+### NFL Team schedule broadcast-value proxy
 
 ```text
-$10.0B annual rights package / 272 regular-season games × 17 Chiefs games
+$10.0B annual rights package / 272 regular-season games × 17 NFL Team games
 = approximately $625M
 ```
 
-This is a portfolio allocation, not network revenue or profit. Broadcast packages contain unequal windows, postseason rights, shoulder programming, streaming rights, and other assets. A Chiefs-Cowboys game can be far more valuable than the average game.
+This is a portfolio allocation, not network revenue or profit. Broadcast packages contain unequal windows, postseason rights, shoulder programming, streaming rights, and other assets. A NFL Team-Cowboys game can be far more valuable than the average game.
 
 ### Licensed-product activity
 
@@ -53,37 +53,37 @@ This is directional because group-licensing income can include trading cards, vi
 
 ## Counterfactual design
 
-The no-Mahomes case uses an average replacement starter rather than removing the franchise.
+The no-NFL Player case uses an average replacement starter rather than removing the franchise.
 
 ### Assumption ranges
 
 | Variable | Replacement-case assumption |
 |---|---|
 | Quarterback compensation | $10M placeholder |
-| Chiefs revenue | 10%-15% below the Mahomes-led case |
-| Chiefs schedule media value | 15%-25% below the Mahomes-led proxy |
-| Licensed products | 20%-40% of Mahomes-linked demand shifts to other Chiefs products |
+| NFL Team revenue | 10%-15% below the NFL Player-led case |
+| NFL Team schedule media value | 15%-25% below the NFL Player-led proxy |
+| Licensed products | 20%-40% of NFL Player-linked demand shifts to other NFL Team products |
 | Food and beverage | $8M-$15M less annual activity |
 | Regional activity | $25M-$50M less annual activity |
-| Missouri taxes | $0.7M-$1.4M less annual activity |
+| State taxes | $0.7M-$1.4M less annual activity |
 
-These assumptions are scenario inputs. They do not claim that Mahomes is solely responsible for the full difference. Andy Reid, teammates, opponents, schedule windows, league growth, Travis Kelce, championships, and broader NFL demand are material co-drivers.
+These assumptions are scenario inputs. They do not claim that NFL Player is solely responsible for the full difference. Head Coach, teammates, opponents, schedule windows, league growth, Star Teammate, championships, and broader NFL demand are material co-drivers.
 
 ## Avoiding double counting
 
-Do not sum all categories into a single "Mahomes economic value" figure:
+Do not sum all categories into a single "NFL Player economic value" figure:
 
-- National media distributions are included in Chiefs revenue.
+- National media distributions are included in NFL Team revenue.
 - Licensed merchandise may be reflected in league and team revenue.
 - Restaurant and bar spending is part of regional economic activity.
 - Taxes arise from underlying transactions and wages.
 - Network rights cost, advertising revenue, subscription value, and profit are different measures.
 
-The defensible conclusion is directional: Mahomes' compensation is supported by a much larger commercial ecosystem, and a replacement quarterback would likely reduce several revenue streams even though the Chiefs and NFL would continue operating.
+The defensible conclusion is directional: NFL Player' compensation is supported by a much larger commercial ecosystem, and a replacement quarterback would likely reduce several revenue streams even though the NFL Team and NFL would continue operating.
 
 ## Limitations
 
-1. The Chiefs are privately held, so detailed audited segment reporting is unavailable.
+1. The NFL Team are privately held, so detailed audited segment reporting is unavailable.
 2. No public source isolates player-level network profit or local restaurant spending.
 3. Economic-impact studies may include substitution effects and multipliers that do not represent net new regional wealth.
 4. A counterfactual depends heavily on replacement quality, team performance, playoff appearances, opponents, injuries, and broader league growth.
