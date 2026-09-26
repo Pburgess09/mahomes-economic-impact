@@ -101,7 +101,7 @@ def write_counterfactual(rows: list[dict[str, str]]) -> None:
 
 
 def write_svg(rows: list[dict[str, str]]) -> None:
-    wanted = ["chiefs_revenue", "chiefs_schedule_media", "licensed_products", "hospitality_food_beverage", "regional_activity"]
+    wanted = ["team_revenue", "team_schedule_media", "licensed_products", "hospitality_food_beverage", "regional_activity"]
     by_id = {row["metric_id"]: row for row in rows}
     chart_rows = [by_id[item] for item in wanted]
     width, height = 1400, 530
@@ -111,7 +111,7 @@ def write_svg(rows: list[dict[str, str]]) -> None:
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
         '<rect width="100%" height="100%" fill="#0b1625"/>',
         '<style>text{font-family:Arial,sans-serif;fill:#f6f8fb}.title{font-size:30px;font-weight:700}.sub{font-size:15px;fill:#aebbd0}.label{font-size:16px}.value{font-size:14px;font-weight:700}</style>',
-        '<text x="50" y="46" class="title">Mahomes-led vs. replacement-QB scenario</text>',
+        '<text x="50" y="46" class="title">NFL Player-led vs. replacement-QB scenario</text>',
         '<text x="50" y="72" class="sub">Annual values in USD; modeled categories overlap and must not be summed</text>',
     ]
     for index, row in enumerate(chart_rows):
@@ -129,7 +129,7 @@ def write_svg(rows: list[dict[str, str]]) -> None:
             f'<text x="{left + without_width + 10:.1f}" y="{y + 45}" class="sub">Without: {money(without_mid)}</text>',
         ])
     elements.extend([
-        '<rect x="50" y="492" width="18" height="12" fill="#e31837"/><text x="76" y="503" class="sub">Mahomes-led case</text>',
+        '<rect x="50" y="492" width="18" height="12" fill="#e31837"/><text x="76" y="503" class="sub">NFL Player-led case</text>',
         '<rect x="230" y="492" width="18" height="12" fill="#8c98aa"/><text x="256" y="503" class="sub">Replacement-QB midpoint</text>',
         '</svg>',
     ])
